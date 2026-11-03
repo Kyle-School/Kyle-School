@@ -2,9 +2,9 @@ BRUH
 
 Student at Fontys Hogeschool ICT Tilburg.
 
-Looking to learn to use github for my further education.
+Use github for education.
 
-Other interests: Gaming & Motorcycle rides.
+Other interests: Gaming & Motorcycles.
 
 
 
